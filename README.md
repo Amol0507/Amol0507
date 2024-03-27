@@ -1,3 +1,4 @@
+![logo](https://github.com/Amol0507/Amol0507/blob/main/Add%20a%20heading_20240316_225532_0000.png)
 <h1 align="center">Hi 👋, I'm Amol Tule.</h1>
 <h3 align="center">A Passionate Software Developer From India.</h3>
 <img align="right" alt="coding" width="400"src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
