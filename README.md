@@ -1,5 +1,5 @@
 ![logo](https://github.com/Amol0507/Amol0507/blob/main/Add%20a%20heading_20240316_225532_0000.png)
-<h1 align="center">Namaskar 🙏 🙇 , I'm Amol Tule.</h1>
+<h1 align="center">Namaskar(Hi) 🙏🙇 , I'm Amol Tule.</h1>
 <h3 align="center">A Passionate Software Developer From India.</h3>
 <img align="right" alt="coding" width="400"src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amol0507&label=Profile%20views&color=0e75b6&style=flat" alt="amol0507" /> </p>
