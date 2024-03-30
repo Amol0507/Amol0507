@@ -4,6 +4,8 @@
 <img align="right" alt="coding" width="400"src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amol0507&label=Profile%20views&color=0e75b6&style=flat" alt="amol0507" /> </p>
 
+- I have completed my graduation 🧑‍🎓 in B.Sc(Computer Science) from SPPU.
+
 - I have recently completed **Full Stack Java Course**
 
 - 📫 How to reach me **amol.tule02@gmail.com**
