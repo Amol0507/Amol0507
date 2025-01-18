@@ -22,7 +22,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amol0507&show_icons=true&locale=en&layout=compact" alt="amol0507" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amol0507&show_icons=true&locale=en" alt="amol0507" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amol0507&" alt="amol0507" /></p>
 
